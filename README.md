@@ -1,4 +1,4 @@
 # AirbnbPricePredictor
 A model to predict pricing of Airbnb listings
 
-![Screenshot](london_price_plot.png)
+![Screenshot](london_prices_plot.png)
